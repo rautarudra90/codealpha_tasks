@@ -1,0 +1,25 @@
+# Core data processing
+pandas>=2.2.2
+numpy>=1.26.4
+
+# Visualization
+matplotlib>=3.8.4
+seaborn>=0.13.2
+
+# Statistics & machine learning
+scipy>=1.13.0
+scikit-learn>=1.4.0
+
+# Reporting
+tabulate>=0.9.0          # Markdown table rendering (df.to_markdown)
+reportlab>=4.2.0          # PDF report generation
+openpyxl>=3.1.2           # Excel report generation
+
+# Dashboard
+streamlit>=1.35.0
+
+# Performance / UX
+tqdm>=4.66.0              # progress bars for long-running operations
+
+# Testing
+pytest>=8.0.0
